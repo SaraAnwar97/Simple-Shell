@@ -1,4 +1,4 @@
-# Simple Shell
+# About
 
 A Unix shell program is simply a program that conveniently allows you to run other programs.
 
