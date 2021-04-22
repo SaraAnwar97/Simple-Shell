@@ -2,15 +2,15 @@
 
 A Unix shell program is simply a program that conveniently allows you to run other programs.
 
-# Prerequisites
+## Prerequisites
 
 install Linux OS.
 
-# Compiling
+## Compiling
 
 gcc -o shell shell.c -pthread
 
-# Running
+## Running
 
 ./shell
 
